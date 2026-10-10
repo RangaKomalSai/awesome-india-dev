@@ -45,6 +45,7 @@ Descriptions are vendor-neutral and factual. Inclusion is not an endorsement. Ve
 - [Finvu](https://finvu.in) - RBI-licensed Account Aggregator.
 - [Perfios](https://www.perfios.com) - Bank-statement analysis and financial data intelligence.
 - [Sahamati](https://sahamati.org.in) - Industry alliance for the Account Aggregator ecosystem (specs and participant directory).
+- [Tapetide MCP](https://tapetide.com/mcp) - MCP server exposing quotes, financials, shareholding, a screener and FII/DII flows for NSE and BSE listed companies.
 
 ## Government & Public Data APIs
 
